@@ -1,0 +1,6 @@
+time="2022-03-30T07:47:36+07:00" level=info msg="Hello Logging"
+time="2022-03-30T07:47:36+07:00" level=warning msg="Hello Logging"
+time="2022-03-30T07:47:36+07:00" level=error msg="Hello Logging"
+time="2022-03-30T07:48:01+07:00" level=info msg="Hello Logging"
+time="2022-03-30T07:48:01+07:00" level=warning msg="Hello Logging"
+time="2022-03-30T07:48:01+07:00" level=error msg="Hello Logging"
